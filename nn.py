@@ -6,5 +6,5 @@ class cnn(nn.Module):
 
     def __init__(self):
         super.__init__()
-        self.layer1 = 0
+        self.layer1 = 99
         
